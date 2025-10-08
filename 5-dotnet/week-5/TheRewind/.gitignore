@@ -1,0 +1,36 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# Database Files
+*.db
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+
+# OS Files
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Project Specific
+*.log
+temp/
+.cache/
+
+# .NET specific
+bin/
+obj/
+*.user
